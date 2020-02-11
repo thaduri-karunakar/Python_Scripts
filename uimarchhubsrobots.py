@@ -1,0 +1,1 @@
+uimarchhubsrobots = {'W12R2Robot42': {'W12R2Robot42': {}}, 'W12R2SecHub4_hub': {'W12R2SecHub4': {'net_connect': '3.37'}}, 'W12R2SERVER4_hub': {'W12R2SERVER4': {'cdm': '6.42-MC', 'net_connect': '3.37', 'processes': '4.64'}, 'w12r2ump4': {'wasp_service_wrapper': '9.20'}, 'w12r2cabi4': {'processes': '4.64'}}}
